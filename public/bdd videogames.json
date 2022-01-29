@@ -1,0 +1,67 @@
+[
+	{
+		"id" : 1,
+		"Jeu" : "God of War",
+		"Modedejeu" : "Solo",
+		"Datedepublication" : "14 Janvier 2022",
+		"PEGI" : 18,
+		"Genre" : "Action,Aventure,Combat,Hack 'n' slash",
+		"Platforme" : "pc,ps4",
+		"Studio" : "Santa Monica Studio",
+		"Affichage" : "https://s3.gaming-cdn.com/images/products/7325/orig/god-of-war-pc-jeu-steam-cover.jpg",
+		"stat" : "<i class='bi bi-star-fill'></i><i class='bi bi-star-fill'></i><i class='bi bi-star-fill'></i><i class='bi bi-star-fill'></i><i class='bi bi-star-half'></i>",
+		"Descriptif" : "God of War est une série de jeux vidéo d'action-aventure de type beat them all débutée en 2005, produite par Sony Computer Entertainment. La série a été lancée par David Jaffe et s'inspire de la mythologie grecque pour les premiers épisodes, et de la mythologie nordique par la suite."
+	},
+	{
+		"id" : 2,
+		"Jeu" : "Splatoon 2",
+		"Modedejeu" : "Multijoueur",
+		"Datedepublication" : "21 Juillet 2017",
+		"PEGI" : 7,
+		"Genre" : "TPS",
+		"Platforme" : "nintendoswitch",
+		"Studio" : "Nitendo",
+		"Affichage" : "https://smartcdkeys.com/image/data/products/splatoon-2-switch/cover/splatoon-2-switch-smartcdkeys-cheap-cd-key-cover.jpg",
+		"stat" : "<i class='bi bi-star-fill'></i><i class='bi bi-star-fill'></i><i class='bi bi-star-fill'></i><i class='bi bi-star'></i><i class='bi bi-star'></i>",
+		"Descriptif" : "Splatoon 2 est un jeu vidéo de tir à la troisième personne développé par Nintendo EPD et édité par Nintendo sur Nintendo Switch sorti le 21 juillet 2017."
+	},
+	{
+		"id" : 3,
+		"Jeu" : "Resident Evil 2",
+		"Modedejeu" : "Solo",
+		"Datedepublication" : "25 Janvier 2019",
+		"PEGI" : 18,
+		"Genre" : "Action,Réflexion,TPS",
+		"Platforme" : "pc,ps4,ps5,xboxone,xboxsx",
+		"Studio" : "Capcom",
+		"Affichage" : "https://cdn.cdkeys.com/media/catalog/product/r/e/re2_1.jpg",
+		"stat" : "<i class='bi bi-star-fill'></i><i class='bi bi-star-fill'></i><i class='bi bi-star-fill'></i><i class='bi bi-star-fill'></i><i class='bi bi-star'></i>",
+		"Descriptif" : "Resident Evil 2 est un jeu vidéo de tir à la troisième personne de type survival horror développé et édité par Capcom, sorti le 25 janvier 2019 sur Microsoft Windows, PlayStation 4 et Xbox One. La 4K, les 60 images par seconde et le HDR sont compatibles sur Microsoft Windows et sur les consoles Xbox One X et PS4 Pro."
+	},
+	{
+		"id" : 4,
+		"Jeu" : "Death Stranding",
+		"Modedejeu" : "Solo",
+		"Datedepublication" : "08 Novembre 2019",
+		"PEGI" : 18,
+		"Genre" : "Action",
+		"Platforme" : "pc,ps4,ps5",
+		"Studio" : "Kojima Productions",
+		"Affichage" : "https://s1.gaming-cdn.com/images/products/5721/orig/jeu-steam-death-stranding-cover.jpg",
+		"stat" : "<i class='bi bi-star-fill'></i><i class='bi bi-star-fill'></i><i class='bi bi-star'></i><i class='bi bi-star'></i><i class='bi bi-star'></i>",
+		"Descriptif" : "Death Stranding est un jeu vidéo développé par Kojima Productions et édité par Sony Interactive Entertainment. Le jeu est sorti le 8 novembre 2019 sur PlayStation 4 et le 14 juillet 2020 sur Windows. Une version director's cut est sortie sur PlayStation 5 le 24 septembre 2021."
+	},
+	{
+		"id" : 5,
+		"Jeu" : "Fifa 2022",
+		"Modedejeu" : "Solo / Multijouer",
+		"Datedepublication" : "27 Janvier 2022",
+		"PEGI" : 3,
+		"Genre" : "Football",
+		"Platforme" : "nintendoswitch,pc,ps4,ps5,xboxone,xboxsx",
+		"Studio" : "Electronic Arts",
+		"Affichage" : "https://m.media-amazon.com/images/I/810RQy7+VKL._AC_SX385_.jpg",
+		"stat" : "<i class='bi bi-star-fill'></i><i class='bi bi-star-fill'></i><i class='bi bi-star-half'></i><i class='bi bi-star'></i><i class='bi bi-star'></i>",
+		"Descriptif" : "FIFA 22 est un jeu vidéo de simulation de football publié par Electronic Arts. Il s'agit du 29ème volet de cette série FIFA. Il est sorti sur Microsoft Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Google Stadia, Xbox One et Xbox Series le 1er octobre 2021."
+	}
+]
